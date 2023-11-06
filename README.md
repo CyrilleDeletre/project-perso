@@ -1,4 +1,4 @@
-# Cahier des charges des fonctionnalités - Application d'aide pour Warhammer 40,000
+# Cahier des charges des fonctionnalités - Application d'aide au jeu Warhammer 40,000
 
 ## Objectifs
 
