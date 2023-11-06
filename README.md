@@ -1,17 +1,17 @@
-#Cahier des charges des fonctionnalités - Application d'aide pour Warhammer 40,000
+# Cahier des charges des fonctionnalités - Application d'aide pour Warhammer 40,000
 
-##Objectifs
+## Objectifs
 
 L'objectif de cette application est de permettre aux utilisateurs de gérer efficacement leurs rounds de bataille, en recevant des annonces des évènements à résoudre en fonction de leurs liste d'armée et de leurs format de jeu. 
 Une fonctionnalité de lancer de dés permet d'effectuer le suivi de la bataille grâce à un compteur de points des différents objectifs de jeu (Point de Commandement, Point d'Objectif, Points de Victoire, etc...).
 Des fonctionnalités de création de liste d'armées et d'historique des parties jouées sont accessibles dans un espace personnel, ainsi que la possibilité d'ajouter des amis et de les rejoindre dans un salon de jeu afin d’accéder simultanément à la même partie.
 
-##Fonctionnalités principales
+## Fonctionnalités principales
 
     
-###Suivi des rounds de bataille
+### Suivi des rounds de bataille
 
-####Les utilisateurs disposent d'un suivi des évènements qui se déroule à chacun de leurs tours et phases de jeu. 
+#### Les utilisateurs disposent d'un suivi des évènements qui se déroule à chacun de leurs tours et phases de jeu. 
 
     • À chaque début de phase de l'un de leurs tours, les différents événements disponibles durant cette phase sont signalés à l'utilisateur, et un simulateur de lancer de dés est à disposition afin de les résoudre. 
 
@@ -23,10 +23,10 @@ Des fonctionnalités de création de liste d'armées et d'historique des parties
 
     • Lorsque ce n'est pas le tour de l'utilisateur, un résumé des stratagèmes utilisables à chacune des phases est consultable.
 
-###Espace personnel
+### Espace personnel
 
-####Les utilisateurs ont à leur disposition un espace personnel où se trouve les règles de base et celles spécifiques aux différentes armées du jeu. 
-####Ils doivent également enregistrer leurs liste d’armée avant de pouvoir lancer une partie et d’en conserver l’historique.
+#### Les utilisateurs ont à leur disposition un espace personnel où se trouve les règles de base et celles spécifiques aux différentes armées du jeu. 
+#### Ils doivent également enregistrer leurs liste d’armée avant de pouvoir lancer une partie et d’en conserver l’historique.
 
     • Un lexique des règles est disponible à tout moment dans l’en-tête de l’application ; il est accompagné d’une barre de recherche pour des mots-clé spécifiques.
 
@@ -36,7 +36,7 @@ Des fonctionnalités de création de liste d'armées et d'historique des parties
 
     • L’historique est disponible dans cet espace avec des statistiques selon ses différentes parties pour chaque liste d’armée.
 
-###Exigences techniques
+### Exigences techniques
 
     • L'application doit être développée en utilisant les technologies suivantes : HTML, CSS, JavaScript, et un framework de développement web (par exemple, React, Angular, Vue.js). Les données doivent être stockées dans une base de données relationnelle (par exemple, MySQL) ou une base de données NoSQL (par exemple, MongoDB). 
     • L'application doit suivre les meilleures pratiques de sécurité web, y compris la protection contre les attaques courantes telles que les injections SQL et les failles XSS. Les mots de passe des utilisateurs doivent être stockés de manière sécurisée (par exemple, en utilisant le hachage et le salage). 
