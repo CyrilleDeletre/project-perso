@@ -25,8 +25,7 @@ Des fonctionnalités de création de liste d'armées et d'historique des parties
 
 ### Espace personnel
 
-#### Les utilisateurs ont à leur disposition un espace personnel où se trouve les règles de base et celles spécifiques aux différentes armées du jeu. 
-#### Ils doivent également enregistrer leurs liste d’armée avant de pouvoir lancer une partie et d’en conserver l’historique.
+#### Les utilisateurs ont à leur disposition un espace personnel où se trouve les règles de base et celles spécifiques aux différentes armées du jeu. Ils doivent également enregistrer leurs liste d’armée avant de pouvoir lancer une partie et d’en conserver l’historique.
 
 * Un lexique des règles est disponible à tout moment dans l’en-tête de l’application ; il est accompagné d’une barre de recherche pour des mots-clé spécifiques.
 
