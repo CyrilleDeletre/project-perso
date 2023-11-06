@@ -1,0 +1,5 @@
+# Ignorer les fichiers CSS générés
+*.css
+
+# Ignorer les fichiers source map générés
+*.css.map
